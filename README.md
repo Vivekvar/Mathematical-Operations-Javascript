@@ -9,4 +9,4 @@ Technologies I used are -
 2) CSS3
 3) Javascript
 
-This project has been hosted on Netlify.
+This project has been deployed on Netlify.
